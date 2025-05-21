@@ -1,0 +1,1 @@
+To run either ByteTrack, or deep_sort algorithm just run the python files super_bytetrack.py or deepsort.py respectively. Then you will have a page to submit your video and receive a report as well as a processed video.
